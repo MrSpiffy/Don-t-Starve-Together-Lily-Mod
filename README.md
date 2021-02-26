@@ -11,9 +11,9 @@ Stats:
 200 health, 100 sanity, 300 hunger
 
 Perks:
-+25% damage
-hunger drains 25% faster
-friend of spiders; enemy of pigs
+- +25% damage
+- hunger drains 25% faster
+- friend of spiders; enemy of pigs
 
 *known issues*
 - Name plate on character select is not working properly
