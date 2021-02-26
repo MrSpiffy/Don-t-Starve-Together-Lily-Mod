@@ -14,3 +14,10 @@ Perks:
 +25% damage
 hunger drains 25% faster
 friend of spiders; enemy of pigs
+
+*known issues*
+- Name plate on character select is not working properly
+- faces/emotes are unfinished
+- some jank with some arm and leg animations
+- forgot to make her tolerate monster food
+- her dialogue is unedited from Webber
