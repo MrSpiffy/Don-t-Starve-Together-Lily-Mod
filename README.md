@@ -17,6 +17,7 @@ friend of spiders; enemy of pigs
 
 *known issues*
 - Name plate on character select is not working properly
+- wearing armor looks funny on her. I recommend getting a More Equip Slots mod and wear a backpack over your armor.
 - faces/emotes are unfinished
 - some jank with some arm and leg animations
 - forgot to make her tolerate monster food
